@@ -1,6 +1,6 @@
 # **Hi, I'm Vusal**
 
-I like to learn about programming. And also I like play video games and watch TV series. (I don't know what to add )
+I like to learn about programming. And also I like play video games and watch TV series. (I don't know what to add ) 
 
 Lately, I've been trying to improve my web-dev skills, cause I like to study and explore new stuff. But I'm probably not going to work in some boring company, at least if they don't have free food. I ❤️ pizza. The main reason that has motivated me so far is the opportunity to bring my ideas to life.
 
